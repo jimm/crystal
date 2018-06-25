@@ -1,0 +1,5 @@
+name: db_test
+version: 0.0.1
+dependencies:
+  mysql:
+    github: crystal-lang/crystal-mysql

@@ -1,0 +1,7 @@
+.shards/
+db_test
+db_test.dwarf
+bin/
+docs/
+lib/
+
