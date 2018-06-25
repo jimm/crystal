@@ -1,0 +1,17 @@
+name: port_midi_test
+version: 0.1.0
+
+authors:
+  - Jim Menard <jim.menard@chloeandisabel.com>
+
+targets:
+  port_midi_test:
+    main: src/port_midi_test.cr
+
+dependencies:
+  port_midi:
+    path: ../port_midi
+
+crystal: 0.25.0
+
+license: MIT
